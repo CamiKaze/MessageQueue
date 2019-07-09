@@ -27,15 +27,16 @@ ReceiveFromRabbitMQ
 ```
 
 ### SendToRabbitMQ
-Enter folder and double-click on SendToRabbitMQ.sln.
+Enter the SendToRabbitMQ folder and double-click on the SendToRabbitMQ.sln file.
 In Visual Studio (2017/2019), run the application.
 You will be asked to enter your name.
-Enter name and press enter.
-A message will be sent to RabbitMQ and stored in a queue.
+Enter your name and press enter.
 
 ```bash
 "Hello my name is, {Name}" is sent to RabbitMQ
 ```
+A message will be sent to RabbitMQ and stored in a queue.
+
 You can view the queue in your browser by navigating to the URL:
 
 ```bash
@@ -43,7 +44,7 @@ http://<localhost>:15672/#/queues
 ```
 
 ### ReceiveFromRabbitMQ
-Enter folder and double-click on ReceiveFromRabbitMQ.sln
+Enter the ReceiveFromRabbitMQ folder and double-click on ReceiveFromRabbitMQ.sln file.
 In Visual Studio (2017/2019), run the application.
 The queue will be retrieved from RabbitMQ and the following text will display:
 
