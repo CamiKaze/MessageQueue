@@ -1,6 +1,5 @@
 # .Net Core and RabbitMQ 
 Publishing and Consuming messages with C# and RabbitMQ
-<<<<<<< HEAD
 
 ## Getting started
 ### Installation
@@ -48,13 +47,13 @@ SendToRabbitMQ
 ReceiveFromRabbitMQ
 
 SendToRabbitMQ
->>>>>>> 349c67cf37e507b9a61d2b9611cfdf1071bb6d3e
+
 Enter folder and double-click on SendToRabbitMQ.sln.
 In Visual Studio (2017/2019), run the application.
 You will be asked to enter your name.
 Enter name and press enter.
 A message will be sent to RabbitMQ and stored in a queue.
-<<<<<<< HEAD
+
 
 ```bash
 "Hello my name is, {Name}" is sent to RabbitMQ
