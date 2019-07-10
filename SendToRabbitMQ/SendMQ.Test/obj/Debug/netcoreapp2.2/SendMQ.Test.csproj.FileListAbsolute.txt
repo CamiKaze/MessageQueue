@@ -6,9 +6,12 @@ C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\bin\Debug\ne
 C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\bin\Debug\netcoreapp2.2\SendMQ.Test.runtimeconfig.dev.json
 C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\bin\Debug\netcoreapp2.2\SendMQ.Test.dll
 C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\bin\Debug\netcoreapp2.2\SendMQ.Test.pdb
+C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\bin\Debug\netcoreapp2.2\SendToRabbitMQ.dll
+C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\bin\Debug\netcoreapp2.2\SendToRabbitMQ.pdb
 C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\obj\Debug\netcoreapp2.2\SendMQ.Test.csprojAssemblyReference.cache
 C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\obj\Debug\netcoreapp2.2\SendMQ.Test.csproj.CoreCompileInputs.cache
 C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\obj\Debug\netcoreapp2.2\SendMQ.Test.AssemblyInfoInputs.cache
 C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\obj\Debug\netcoreapp2.2\SendMQ.Test.AssemblyInfo.cs
+C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\obj\Debug\netcoreapp2.2\SendMQ.Test.csproj.CopyComplete
 C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\obj\Debug\netcoreapp2.2\SendMQ.Test.dll
 C:\Users\Cameron\source\git\MessageQueue\SendToRabbitMQ\SendMQ.Test\obj\Debug\netcoreapp2.2\SendMQ.Test.pdb
