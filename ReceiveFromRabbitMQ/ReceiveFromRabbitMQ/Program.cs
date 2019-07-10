@@ -6,7 +6,7 @@ using System.Text;
 
 namespace ReceiveFromRabbitMQ
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         { // Read specific ID from queue
@@ -35,7 +35,7 @@ namespace ReceiveFromRabbitMQ
             }
         }
 
-        private static string GetName(string data)
+        public static string GetName(string data)
         {
             string Name = data.Split(' ').Last();
             return Name;
