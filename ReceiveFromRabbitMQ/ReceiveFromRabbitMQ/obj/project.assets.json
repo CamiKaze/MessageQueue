@@ -4256,11 +4256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cameron\\source\\git\\MessageQueue\\SendToRabbitMQ\\SendToRabbitMQ\\SendToRabbitMQ.csproj",
-      "projectName": "SendToRabbitMQ",
-      "projectPath": "C:\\Users\\Cameron\\source\\git\\MessageQueue\\SendToRabbitMQ\\SendToRabbitMQ\\SendToRabbitMQ.csproj",
+      "projectUniqueName": "C:\\Users\\Cameron\\source\\git\\MessageQueue\\ReceiveFromRabbitMQ\\ReceiveFromRabbitMQ\\ReceiveFromRabbitMQ.csproj",
+      "projectName": "ReceiveFromRabbitMQ",
+      "projectPath": "C:\\Users\\Cameron\\source\\git\\MessageQueue\\ReceiveFromRabbitMQ\\ReceiveFromRabbitMQ\\ReceiveFromRabbitMQ.csproj",
       "packagesPath": "C:\\Users\\Cameron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cameron\\source\\git\\MessageQueue\\SendToRabbitMQ\\SendToRabbitMQ\\obj\\",
+      "outputPath": "C:\\Users\\Cameron\\source\\git\\MessageQueue\\ReceiveFromRabbitMQ\\ReceiveFromRabbitMQ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
